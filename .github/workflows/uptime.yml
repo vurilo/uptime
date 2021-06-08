@@ -5,7 +5,7 @@
 # ===============================
 #
 # Your changes will be overwritten when the template updates (daily)
-# Instead, change your .upptimerc.yml configuration:https://upptime.js.org/docs
+# Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
 
 name: Uptime CI
 on:
