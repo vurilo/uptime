@@ -19,8 +19,7 @@ status-website:
   name: Vurilo Status
   introTitle: "**Vurilo** is a platform to learn; to teach."
   introMessage: Status all parts of Vurilo platform
-    - title: Status
-      href: /
+  navbar:
     - title: Vurilo
       href: https://vurilo.com
   metaTags:
