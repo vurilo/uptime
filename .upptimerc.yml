@@ -15,18 +15,21 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vurilo.com
   # baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status | Vurilo
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Vurilo Status
+  introTitle: "**Vurilo** is a platform to learn; to teach."
+  introMessage: Status all parts of Vurilo platform
     - title: Status
       href: /
     - title: Vurilo
       href: https://vurilo.com
+  metaTags:
+    - name: descrition
+      content: Welcome to Vurilo&#39;s home for real-time and historical data on system performance.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 assignees:
   - sursaone
 i18n:
-  footer: &copy vurilo.com
+  footer: &#169 vurilo.com
+  
