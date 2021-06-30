@@ -15,10 +15,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vurilo.com
   # baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/vurilo/uptime/raw/HEAD/assets/logo.svg
   name: Vurilo Status
   introTitle: "Status all parts of **Vurilo** platform"
-  introMessage: 
+  introMessage:
   navbar:
     - title: Status
       href: /
@@ -33,4 +33,3 @@ assignees:
   - sursaone
 i18n:
   footer: &#169 vurilo.com
-  
