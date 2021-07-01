@@ -17,7 +17,7 @@ status-website:
   # baseUrl: /uptime
   logoUrl: https://github.com/vurilo/uptime/raw/HEAD/assets/logo.svg
   name: Vurilo Status
-  introTitle: "Status all parts of **Vurilo** platform"
+  introTitle: "Status of all parts of **Vurilo** platform"
   introMessage:
   navbar:
     - title: Status
