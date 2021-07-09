@@ -40,19 +40,19 @@
     "url": "$URL_REST_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rest-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 872,
-    "timeWeek": 967,
-    "timeMonth": 1183,
-    "timeYear": 1256,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1280,
+    "timeDay": 1568,
+    "timeWeek": 1129,
+    "timeMonth": 1215,
+    "timeYear": 1280,
     "dailyMinutesDown": {
-      "2021-07-09": 0
+      "2021-07-09": 15
     }
   }
 ]
