@@ -4,10 +4,10 @@
     "url": "$URL_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 310,
@@ -16,6 +16,7 @@
     "timeMonth": 348,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2021-11-13": 1,
       "2021-09-17": 128
     }
   },
@@ -24,9 +25,9 @@
     "url": "$URL_IMAGE_SERVICE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -36,6 +37,7 @@
     "timeMonth": 151,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2021-11-13": 0,
       "2021-09-17": 128
     }
   },
@@ -45,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rest-api",
     "status": "down",
-    "uptime": "70.43%",
+    "uptime": "70.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.43%",
+    "uptimeYear": "70.29%",
     "time": 1085,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2021-11-13": 29,
+      "2021-11-13": 479,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
