@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1880,
-    "timeDay": 2921,
-    "timeWeek": 3240,
-    "timeMonth": 3257,
-    "timeYear": 2386,
+    "time": 1882,
+    "timeDay": 2731,
+    "timeWeek": 3318,
+    "timeMonth": 3128,
+    "timeYear": 2392,
     "dailyMinutesDown": {
       "2022-08-20": 19,
       "2022-06-13": 48,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 228,
-    "timeDay": 254,
-    "timeWeek": 153,
-    "timeMonth": 225,
+    "timeDay": 237,
+    "timeWeek": 157,
+    "timeMonth": 196,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-02-22": 24,
@@ -51,16 +51,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "50.54%",
+    "uptime": "50.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "36.20%",
-    "time": 1186,
-    "timeDay": 1491,
-    "timeWeek": 1487,
-    "timeMonth": 1431,
-    "timeYear": 1387,
+    "time": 1187,
+    "timeDay": 1361,
+    "timeWeek": 1465,
+    "timeMonth": 1425,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2022-05-22": 197,
       "2022-05-21": 1440,
@@ -294,8 +294,7 @@
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
-      "2021-10-02": 1440,
-      "2021-10-01": 1034
+      "2021-10-02": 1440
     }
   }
 ]
