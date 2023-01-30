@@ -9,6 +9,10 @@ sites:
     url: $URL_IMAGE_SERVICE
   - name: Rest API
     url: $URL_REST_API
+  - name: Blog
+    url: https://blog.vurilo.com/ghost/api/admin/site/
+  - name: Video Service
+    url: https://video.ws.vurilo.com/swagger
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
