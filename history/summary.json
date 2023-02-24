@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2650,
-    "timeDay": 2573,
-    "timeWeek": 2714,
-    "timeMonth": 3257,
-    "timeYear": 3431,
+    "time": 2658,
+    "timeDay": 4456,
+    "timeWeek": 2932,
+    "timeMonth": 3211,
+    "timeYear": 3441,
     "dailyMinutesDown": {
       "2023-01-21": 16,
       "2023-01-14": 19,
@@ -30,18 +30,20 @@
     "url": "$URL_IMAGE_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 1454,
-    "timeWeek": 1443,
-    "timeMonth": 1263,
-    "timeYear": 304,
-    "dailyMinutesDown": {}
+    "time": 291,
+    "timeDay": 1459,
+    "timeWeek": 1436,
+    "timeMonth": 1302,
+    "timeYear": 307,
+    "dailyMinutesDown": {
+      "2023-02-24": 1
+    }
   },
   {
     "name": "Rest API",
@@ -49,15 +51,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "62.04%",
+    "uptime": "62.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.75%",
+    "uptimeYear": "76.16%",
     "time": 1391,
-    "timeDay": 1346,
-    "timeWeek": 1381,
-    "timeMonth": 1391,
+    "timeDay": 1518,
+    "timeWeek": 1410,
+    "timeMonth": 1396,
     "timeYear": 1505,
     "dailyMinutesDown": {
       "2022-12-20": 72,
@@ -148,8 +150,7 @@
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
-      "2022-02-25": 1440,
-      "2022-02-24": 1440
+      "2022-02-25": 1440
     }
   },
   {
@@ -163,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 713,
-    "timeWeek": 682,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 712,
+    "timeDay": 675,
+    "timeWeek": 680,
+    "timeMonth": 712,
+    "timeYear": 712,
     "dailyMinutesDown": {}
   },
   {
@@ -181,11 +182,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
-    "timeDay": 916,
-    "timeWeek": 915,
-    "timeMonth": 942,
-    "timeYear": 942,
+    "time": 939,
+    "timeDay": 879,
+    "timeWeek": 903,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   }
 ]
