@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2768,
-    "timeDay": 5378,
-    "timeWeek": 4276,
-    "timeMonth": 3264,
-    "timeYear": 3595,
+    "time": 2773,
+    "timeDay": 3582,
+    "timeWeek": 4465,
+    "timeMonth": 3278,
+    "timeYear": 3603,
     "dailyMinutesDown": {
       "2023-01-21": 16,
       "2023-01-14": 19,
@@ -32,18 +32,16 @@
     "slug": "image-service",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 1549,
-    "timeWeek": 1482,
+    "time": 344,
+    "timeDay": 1496,
+    "timeWeek": 1494,
     "timeMonth": 1484,
-    "timeYear": 381,
-    "dailyMinutesDown": {
-      "2023-03-14": 11
-    }
+    "timeYear": 385,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rest API",
@@ -51,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "63.18%",
+    "uptime": "63.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.07%",
-    "time": 1414,
-    "timeDay": 1689,
-    "timeWeek": 1561,
-    "timeMonth": 1479,
-    "timeYear": 1505,
+    "uptimeYear": "81.23%",
+    "time": 1415,
+    "timeDay": 1375,
+    "timeWeek": 1542,
+    "timeMonth": 1466,
+    "timeYear": 1504,
     "dailyMinutesDown": {
       "2022-12-20": 72,
       "2022-12-19": 470,
@@ -131,8 +129,7 @@
       "2022-03-19": 1440,
       "2022-03-18": 1440,
       "2022-03-17": 1440,
-      "2022-03-16": 1440,
-      "2022-03-15": 1440
+      "2022-03-16": 1440
     }
   },
   {
@@ -141,19 +138,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.vurilo.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 723,
-    "timeDay": 883,
-    "timeWeek": 741,
-    "timeMonth": 723,
+    "timeDay": 859,
+    "timeWeek": 744,
+    "timeMonth": 722,
     "timeYear": 723,
-    "dailyMinutesDown": {
-      "2023-03-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Video Service",
@@ -166,11 +161,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 1010,
-    "timeWeek": 923,
+    "time": 934,
+    "timeDay": 981,
+    "timeWeek": 933,
     "timeMonth": 921,
-    "timeYear": 933,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   }
 ]
