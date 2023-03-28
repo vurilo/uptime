@@ -30,10 +30,10 @@
     "url": "$URL_IMAGE_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
@@ -41,7 +41,9 @@
     "timeWeek": 1520,
     "timeMonth": 1494,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-28": 1
+    }
   },
   {
     "name": "Rest API",
@@ -49,11 +51,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "63.94%",
+    "uptime": "63.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.79%",
+    "uptimeYear": "84.90%",
     "time": 1433,
     "timeDay": 1326,
     "timeWeek": 1394,
@@ -124,9 +126,9 @@
     "url": "https://blog.vurilo.com/ghost/api/admin/site/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.vurilo.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,7 +137,9 @@
     "timeWeek": 718,
     "timeMonth": 733,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-28": 0
+    }
   },
   {
     "name": "Video Service",
