@@ -32,18 +32,16 @@
     "slug": "image-service",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
     "timeDay": 1460,
     "timeWeek": 1499,
     "timeMonth": 1490,
     "timeYear": 445,
-    "dailyMinutesDown": {
-      "2023-03-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rest API",
@@ -126,28 +124,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.vurilo.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 782,
     "timeWeek": 747,
     "timeMonth": 739,
     "timeYear": 728,
-    "dailyMinutesDown": {
-      "2023-03-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Video Service",
     "url": "https://video.ws.vurilo.com/swagger",
     "icon": "https://icons.duckduckgo.com/ip3/video.ws.vurilo.com.ico",
     "slug": "video-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -156,6 +152,8 @@
     "timeWeek": 942,
     "timeMonth": 931,
     "timeYear": 936,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-29": 0
+    }
   }
 ]
