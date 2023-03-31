@@ -30,19 +30,19 @@
     "url": "$URL_IMAGE_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "image-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 1566,
-    "timeWeek": 1487,
-    "timeMonth": 1490,
-    "timeYear": 457,
+    "time": 399,
+    "timeDay": 1519,
+    "timeWeek": 1486,
+    "timeMonth": 1489,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-03-31": 0
+      "2023-03-31": 5
     }
   },
   {
