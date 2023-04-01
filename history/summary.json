@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2865,
-    "timeDay": 3612,
-    "timeWeek": 3372,
-    "timeMonth": 3594,
-    "timeYear": 3546,
+    "time": 2874,
+    "timeDay": 7518,
+    "timeWeek": 3951,
+    "timeMonth": 3771,
+    "timeYear": 3545,
     "dailyMinutesDown": {
       "2023-01-21": 16,
       "2023-01-14": 19,
@@ -32,18 +32,16 @@
     "slug": "image-service",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 1519,
-    "timeWeek": 1486,
-    "timeMonth": 1489,
-    "timeYear": 460,
-    "dailyMinutesDown": {
-      "2023-03-31": 5
-    }
+    "time": 402,
+    "timeDay": 1495,
+    "timeWeek": 1495,
+    "timeMonth": 1492,
+    "timeYear": 464,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rest API",
@@ -51,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "64.13%",
+    "uptime": "64.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.74%",
+    "uptimeYear": "85.89%",
     "time": 1438,
-    "timeDay": 1594,
-    "timeWeek": 1473,
-    "timeMonth": 1459,
+    "timeDay": 1320,
+    "timeWeek": 1434,
+    "timeMonth": 1462,
     "timeYear": 1500,
     "dailyMinutesDown": {
       "2022-12-20": 72,
@@ -114,8 +112,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   },
   {
@@ -130,9 +127,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 726,
-    "timeDay": 786,
-    "timeWeek": 733,
-    "timeMonth": 735,
+    "timeDay": 717,
+    "timeWeek": 736,
+    "timeMonth": 736,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2023-03-29": 39
@@ -150,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
-    "timeDay": 1036,
-    "timeWeek": 924,
-    "timeMonth": 930,
+    "timeDay": 921,
+    "timeWeek": 927,
+    "timeMonth": 931,
     "timeYear": 935,
     "dailyMinutesDown": {}
   }
