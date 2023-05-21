@@ -1,7 +1,7 @@
 url: $URL_REST_API
-status: up
-code: 200
-responseTime: 1421
-lastUpdated: 2023-05-20T23:04:40.414Z
+status: down
+code: 502
+responseTime: 1007
+lastUpdated: 2023-05-21T07:01:32.502Z
 startTime: Tue Jun 08 2021 09:00:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
