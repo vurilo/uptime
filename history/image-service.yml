@@ -1,7 +1,7 @@
 url: $URL_IMAGE_SERVICE
-status: up
-code: 200
-responseTime: 1507
-lastUpdated: 2023-05-31T23:04:30.103Z
+status: down
+code: 502
+responseTime: 11064
+lastUpdated: 2023-06-01T06:40:31.803Z
 startTime: Tue Jun 08 2021 09:00:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
