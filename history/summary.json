@@ -59,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "71.84%",
+    "uptime": "71.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -109,11 +109,11 @@
     "url": "https://video.ws.vurilo.com/swagger",
     "icon": "https://icons.duckduckgo.com/ip3/video.ws.vurilo.com.ico",
     "slug": "video-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 948,
     "timeDay": 926,
@@ -121,7 +121,7 @@
     "timeMonth": 960,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2023-09-30": 6,
+      "2023-09-30": 0,
       "2023-04-12": 123,
       "2023-04-11": 505
     }
