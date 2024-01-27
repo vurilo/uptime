@@ -1,7 +1,7 @@
 url: https://blog.vurilo.com/ghost/api/admin/site/
-status: down
-code: 521
-responseTime: 393
-lastUpdated: 2024-01-27T17:58:04.487Z
+status: up
+code: 200
+responseTime: 686
+lastUpdated: 2024-01-27T18:05:52.243Z
 startTime: 2023-01-30T10:54:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
