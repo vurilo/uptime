@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 499,
-    "timeWeek": 444,
-    "timeMonth": 503,
-    "timeYear": 429,
+    "timeDay": 561,
+    "timeWeek": 474,
+    "timeMonth": 501,
+    "timeYear": 430,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "image-service",
     "status": "down",
-    "uptime": "75.82%",
+    "uptime": "75.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.73%",
-    "time": 995,
-    "timeDay": 701,
-    "timeWeek": 693,
-    "timeMonth": 723,
+    "uptimeYear": "18.38%",
+    "time": 992,
+    "timeDay": 706,
+    "timeWeek": 709,
+    "timeMonth": 721,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2024-09-22": 422,
@@ -330,9 +330,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -340,18 +338,19 @@
     "url": "$URL_REST_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rest-api",
-    "status": "up",
-    "uptime": "81.12%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.15%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 1427,
-    "timeDay": 1393,
-    "timeWeek": 1386,
-    "timeMonth": 1424,
+    "timeDay": 1410,
+    "timeWeek": 1400,
+    "timeMonth": 1421,
     "timeYear": 1420,
     "dailyMinutesDown": {
+      "2024-11-29": 0,
       "2024-07-22": 671,
       "2024-07-21": 1440,
       "2024-06-25": 37,
@@ -365,16 +364,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.vurilo.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.75%",
+    "uptime": "94.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.49%",
+    "uptimeYear": "92.14%",
     "time": 2255,
-    "timeDay": 448,
-    "timeWeek": 532,
-    "timeMonth": 551,
-    "timeYear": 2476,
+    "timeDay": 488,
+    "timeWeek": 529,
+    "timeMonth": 553,
+    "timeYear": 2475,
     "dailyMinutesDown": {
       "2024-07-31": 342,
       "2024-07-30": 840,
@@ -446,9 +445,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -457,11 +454,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/video.ws.vurilo.com.ico",
     "slug": "video-service",
     "status": "down",
-    "uptime": "46.25%",
+    "uptime": "46.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.73%",
+    "uptimeYear": "18.38%",
     "time": 963,
     "timeDay": 0,
     "timeWeek": 0,
@@ -764,9 +761,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-12-01": 1440
     }
   }
 ]
